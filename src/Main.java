@@ -9,7 +9,8 @@ public class Main {
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         // Press Shift+F9 to start debugging your code. We have set one breakpoint
         // for you, but you can always add more by pressing Ctrl+F8.
-        for (int i = 1; i <= 9; i++)
+        for (int i = 1; i <= 10; i++)
             System.out.println("i = " + i);
     }
 }
+
